@@ -1,0 +1,5 @@
+# Hand-written fallback profile for app code (libraries such as Compose, Coil, WorkManager
+# and DataStore ship their own profiles, which are merged automatically).
+# A device-generated profile (./gradlew :app:generateReleaseBaselineProfile) is merged on top.
+HSPLapp/wallshift/**->**(**)**
+Lapp/wallshift/**;

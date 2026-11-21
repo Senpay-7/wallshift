@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wallshift</string>
+    <string name="wallpaper_description">Your Wallshift photos. Double-tap anywhere on the Home screen for the next one.</string>
+    <string name="tap_widget_description">Old Wallshift tap area — no longer needed</string>
+    <string name="tap_widget_label">Wallshift (old tap area)</string>
+    <string name="tap_widget_notice">Wallshift: this old tap area is no longer needed.\nLong-press → Remove</string>
+</resources>
